@@ -1,2 +1,1 @@
 SAFE
-WARNING: Multiple executors detected. Stop all activity.
