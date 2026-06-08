@@ -1,2 +1,2 @@
-BAN_WAVE_ACTIVE
+SAFE
 WARNING: Multiple executors detected. Stop all activity.
